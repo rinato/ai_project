@@ -16,5 +16,6 @@
     2) md문서 작성 방법
         https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4
 
+  3. 개발환경 구축
   4. Linear regression으로 간단한 프로젝트 각자 진행 (기한 2주)
   5. 프로젝트 문서화(Github 최대한 활용)
