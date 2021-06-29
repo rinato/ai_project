@@ -42,6 +42,7 @@
       - 독립변수 24개 > 10개 모델링으로 결과예측
       
   2. 차주 진행사항
+  
     1) 나현 - 셋업한 환경에서 Linear Regression 프로젝트 진행
       - opentutorials Tensorflow 101 강의 수강 및 참고
       - https://opentutorials.org/module/4966
