@@ -4,15 +4,15 @@
   1. 인코파 url : https://kaist.edwith.org/python4ai/joinLectures/47074
   2. Anaconda Navigator :
   
-    4) conda list : List all libraries installed in an environment.
-    5) conda create –n 'name' python=3.7 : Creating a new virtual environment, 'name'. Not specifying python version? Newest one!
-    6) conda env list : List all existing virtual environments.
-    7) conda env remove –n 'name' : Remove the environment and all packages in it.
-    8) conda activate 'name' : Entering into the virtual environment, 'name'.
-    9) conda deactivate : Closing 'name' and getting out of it.
-    10) conda --version : Checking anaconda version that you are using.
-    11) python --version : Checking Python version that you are using.
-    12) exit : Closing Anaconda prompt window
+    1) conda list : List all libraries installed in an environment.
+    2) conda create –n 'name' python=3.7 : Creating a new virtual environment, 'name'. Not specifying python version? Newest one!
+    3) conda env list : List all existing virtual environments.
+    4) conda env remove –n 'name' : Remove the environment and all packages in it.
+    5) conda activate 'name' : Entering into the virtual environment, 'name'.
+    6) conda deactivate : Closing 'name' and getting out of it.
+    7) conda --version : Checking anaconda version that you are using.
+    8) python --version : Checking Python version that you are using.
+    9) exit : Closing Anaconda prompt window
 
 ### 6/8 회의
   1. 일주일에 한번 진행상황 점검
