@@ -2,7 +2,7 @@
 
 ### 이전내용 저장
   1. 인코파 url : https://kaist.edwith.org/python4ai/joinLectures/47074
-  2. Anaconda Navigator :
+  2. Anaconda Navigator : env 추가
   
     1) conda list : List all libraries installed in an environment.
     2) conda create –n 'name' python=3.7 : Creating a new virtual environment, 'name'. Not specifying python version? Newest one!
@@ -13,6 +13,12 @@
     7) conda --version : Checking anaconda version that you are using.
     8) python --version : Checking Python version that you are using.
     9) exit : Closing Anaconda prompt window
+    
+  3. env Library추가 :
+    
+    1) conda install tensorflow numpy pandas matplotlib seaborn scikit-learn keras
+
+  4. 머신러닝 알고리즘 선택 가이드 : https://www.sas.com/ko_kr/solutions/ai-mic/blog/machine-learning-algorithm-cheat-sheet.html
 
 ### 6/8 회의
   1. 일주일에 한번 진행상황 점검
