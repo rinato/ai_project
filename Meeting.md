@@ -19,6 +19,7 @@
     2) conda install tensorflow numpy pandas matplotlib seaborn scikit-learn keras
     3) conda extenction : https://jupyterlab.readthedocs.io/en/stable/user/extensions.html
                           jupyter labextension install my-extension my-other-extension
+                          jupyter / jupyter labextension list / jupyter labextension install git
 
   4. 머신러닝 알고리즘 선택 가이드 : https://www.sas.com/ko_kr/solutions/ai-mic/blog/machine-learning-algorithm-cheat-sheet.html
 
