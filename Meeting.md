@@ -18,7 +18,7 @@
 
     1) pip install jupyterlab
     2) conda install tensorflow numpy pandas matplotlib seaborn scikit-learn keras
-    3) conda extenction : jupyter labextension install my-extension my-other-extension
+    3) jupyter extenction : jupyter labextension install my-extension my-other-extension
                           jupyter / jupyter labextension list / jupyter labextension install git
 
   4. jupyterlab extensions : https://jupyterlab.readthedocs.io/en/stable/user/extensions.html
