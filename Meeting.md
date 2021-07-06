@@ -17,7 +17,7 @@
   3. env Library추가 :
     
     1) conda install tensorflow numpy pandas matplotlib seaborn scikit-learn keras
-    2) 
+    2) conda extenction : https://jupyterlab.readthedocs.io/en/stable/user/extensions.html
 
   4. 머신러닝 알고리즘 선택 가이드 : https://www.sas.com/ko_kr/solutions/ai-mic/blog/machine-learning-algorithm-cheat-sheet.html
 
