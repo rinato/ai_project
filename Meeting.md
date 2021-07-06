@@ -58,33 +58,34 @@
 ### 6/29 회의
   1. 진행사항 공유
  
-    1) 나현
+    1) 현
       - jupyterlab - github 연동하여 push / pull 진행
       - ai_project내 master branch
       - https://github.com/rinato/ai_project/tree/master
       - py3.7 새로운 가상환경 설치 > Jupyterlab > Extension설치 > Node.js설치 > Git Extension > 기존 ai_project repositories에 git연동
       
-    2) 이지윤
+    2) 화이팅
       - Linear regression을 이용한 서울 자전거 대여 예측 프로젝트 완료 및 발표
       - 독립변수 24개 > 10개 모델링으로 결과예측
       
   2. 차주 진행사항
   
-    1) 나현
+    1) 현
       - 셋업한 환경에서 Linear Regression 프로젝트 진행
       - opentutorials Tensorflow 101 강의 수강 및 참고
       - https://opentutorials.org/module/4966
-    2) 이지윤
+    
+    2) 화이팅
       - 인프런 파이썬 강의 수강을 통해 파이썬 역량 강화
 
 ### 7/06 회의
   1. 진행사항 공유
 
-    1) 나현
+    1) 현
       - 집 <-> 사무실간 git 사용에 익숙해짐
       - tensorflow101 7강까지 진행
     
-    2) 이지윤
+    2) 화이팅
       - 모위딥 10강까지 진행, 파이썬 8강 진행.
       - 파이썬, 모위딥 병행하려 했으나 모위딥 선행으로
     
@@ -92,10 +93,10 @@
     
   2. 차주 진행사항
     
-    1) 나현
+    1) 현
       - tensorflow101 22강까지 진행, 수강완료
       - 이후 셋업한 환경에서 Linear Regression 프로젝트 진행
     
-    2) 이지윤
+    2) 화이팅
       - 모위딥 50강까지 진행, 수강완료
 
