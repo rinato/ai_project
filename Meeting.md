@@ -15,6 +15,7 @@
     9) exit : Closing Anaconda prompt window
     
   3. env Library추가 :
+
     1) pip install jupyterlab
     2) conda install tensorflow numpy pandas matplotlib seaborn scikit-learn keras
     3) conda extenction : https://jupyterlab.readthedocs.io/en/stable/user/extensions.html
