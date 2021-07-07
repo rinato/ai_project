@@ -1,7 +1,7 @@
 # ai_project
 
 ### 이전내용 저장
-  1. 인코파 수강완료 url : https://kaist.edwith.org/python4ai/joinLectures/47074
+  1. 인코파 수강완료 4~5월 진행. url : https://kaist.edwith.org/python4ai/joinLectures/47074
   2. 개발환경 설정 Anaconda Navigator : jupyterlab
   
     - env 추가 :
