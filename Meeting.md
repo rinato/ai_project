@@ -76,8 +76,7 @@
     1) 현
       - 셋업한 환경에서 Linear Regression 프로젝트 진행
       - opentutorials Tensorflow 101 강의 수강 및 참고
-      
-    
+
     2) 화이팅
       - 인프런 파이썬 강의 수강을 통해 파이썬 역량 강화
 
