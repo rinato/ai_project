@@ -1,7 +1,7 @@
 # ai_project
 
 ### 이전내용 저장
-  1. 인코파 수강완료 4~5월 진행. url : https://kaist.edwith.org/python4ai/joinLectures/47074
+  1. 인코파 수강완료 4~5월 진행. 
   2. 개발환경 설정 Anaconda Navigator : jupyterlab
   
     - env 추가 :
@@ -24,25 +24,27 @@
   
   3. 머신러닝 알고리즘 선택 가이드 : https://www.sas.com/ko_kr/solutions/ai-mic/blog/machine-learning-algorithm-cheat-sheet.html
 
+  - 인코파 : https://kaist.edwith.org/python4ai/joinLectures/47074
+
 ### 6/8 회의
   1. 일주일에 한번 진행상황 점검
   2. 소스관리 Github 사용
   
     1) git 및 github 사용방법
-        https://reddb.tistory.com/145?category=948284
         - git 설치
         - git 기본 사용법
         - git 작업 되돌리기
         - 브랜치 만들기
         - 브랜치 병합
         - 깃허브 가입 및 원격저장소 사용
-        - 깃허브를 이용한 협업
-    2) md문서 작성 방법
-        https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4
-
+        - 깃허브를 이용한 협업       
+        
   3. 개발환경 구축
   4. Linear regression으로 간단한 프로젝트 각자 진행 (기한 2주)
   5. 프로젝트 문서화(Github 최대한 활용)
+
+  - git 사용법 : https://reddb.tistory.com/145?category=948284
+  - github md문서 작성방법 : https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4
 
 ### 6/15 회의
   1. 함께 할 수 있는 프로젝트
@@ -56,7 +58,6 @@
   2. Linear regression 간단 프로젝트 개인별 완료 후 Github에 업로드 및 공유
 
 ### 6/29 회의
-  - tensowflow101 : https://opentutorials.org/module/4966
 
   1. 진행사항 공유
 
@@ -80,9 +81,9 @@
     2) 화이팅
       - 인프런 파이썬 강의 수강을 통해 파이썬 역량 강화
 
+  - tensowflow101 : https://opentutorials.org/module/4966
+
 ### 7/6 회의
-  
-  - 모위딥 url : https://hunkim.github.io/ml/
 
   1. 진행사항 공유
 
@@ -105,11 +106,11 @@
     2) 화이팅
       - 모위딥 50강까지 진행, 수강완료
      
+  - 모위딥 url : https://hunkim.github.io/ml/
+
 ### 7/13 회의
 
   공통 목표 - 인프런강의 파이썬 머신러닝 완벽 가이드 들으면서 캐글 프로젝트 실습예제 진행
-  - tensowflow101 : https://opentutorials.org/module/4966
-  - 인프런 파이썬 머신러닝 완벽 가이드 : https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C
   
   1. 진행사항 공유
 
@@ -134,3 +135,7 @@
       
     3) 다다
       - 인프런 강의 - 파이썬 머신러닝 완벽 가이드 섹션2 완료
+
+  - tensowflow101 : https://opentutorials.org/module/4966
+  - 인프런 파이썬 머신러닝 완벽 가이드 : https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C
+
