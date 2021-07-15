@@ -22,7 +22,7 @@
                           jupyter / jupyter labextension list / jupyter labextension install git
     4) jupyterlab extensions : https://jupyterlab.readthedocs.io/en/stable/user/extensions.html
   
-  3. 머신러닝 알고리즘 선택 가이드 : https://www.sas.com/ko_kr/solutions/ai-mic/blog/machine-learning-algorithm-cheat-sheet.html
+  - 머신러닝 알고리즘 선택 가이드 : https://www.sas.com/ko_kr/solutions/ai-mic/blog/machine-learning-algorithm-cheat-sheet.html
 
   - 인코파 : https://kaist.edwith.org/python4ai/joinLectures/47074
 
