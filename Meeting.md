@@ -56,8 +56,10 @@
   2. Linear regression 간단 프로젝트 개인별 완료 후 Github에 업로드 및 공유
 
 ### 6/29 회의
+  - tensowflow101 : https://opentutorials.org/module/4966
+
   1. 진행사항 공유
- 
+
     1) 현
       - jupyterlab - github 연동하여 push / pull 진행
       - ai_project내 master branch
@@ -73,12 +75,15 @@
     1) 현
       - 셋업한 환경에서 Linear Regression 프로젝트 진행
       - opentutorials Tensorflow 101 강의 수강 및 참고
-      - https://opentutorials.org/module/4966
+      
     
     2) 화이팅
       - 인프런 파이썬 강의 수강을 통해 파이썬 역량 강화
 
 ### 7/6 회의
+  
+  - 모위딥 url : https://hunkim.github.io/ml/
+
   1. 진행사항 공유
 
     1) 현
@@ -87,7 +92,6 @@
     
     2) 화이팅
       - 모위딥 10강까지 진행, 파이썬 8강 진행.
-      - 모위딥 url : https://hunkim.github.io/ml/
       - 파이썬, 모위딥 병행하려 했으나 모위딥 선행으로
     
     3) jupyterlab보다, 클라우드 GPU지원을 받을 수 있는 구글 colab 사용하는 방향
@@ -104,12 +108,14 @@
 ### 7/13 회의
 
   공통 목표 - 인프런강의 파이썬 머신러닝 완벽 가이드 들으면서 캐글 프로젝트 실습예제 진행
-
+  - tensowflow101 : https://opentutorials.org/module/4966
+  - 인프런 파이썬 머신러닝 완벽 가이드 : https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C
+  
   1. 진행사항 공유
 
     1) 현
       - tensorflow101 17강까지 수강 / 실습 예제 깃허브 업로드
-      - https://opentutorials.org/module/4966
+
     2) 화이팅
       - 모위딥 50강까지 수강 완료
 
@@ -122,8 +128,7 @@
     1) 현
       - tensorflow101 22강까지 수강 / 프로젝트 진행 ...
       - 인프런강의 - 파이썬 머신러닝 완벽 가이드 - 섹션1 '넘파이 ndarray의 정렬과 선형대수 연산' 까지
-      - https://opentutorials.org/module/4966
-      - https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C
+
     2) 화이팅
       - 인프런 강의 - 파이썬 머신러닝 완벽 가이드 섹션1 완료
       
